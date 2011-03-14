@@ -2,8 +2,7 @@
 
 Right now the flv analyzer is able to read an flv file, deconstruct it into frames, load the fields into C datastructures and output a human-readable version of everything (leaving out the actual audio/video data).
 
-While this is a useful tool on its own, its true purpose is to become part of an flv stream splitter and recombiner that can split a stream over several connections and recombine them at the server in order to allow broadcasting wirelessly using several bundled 3G / wifi / wimax connections.
-
+The license for this code is GPLv3.
 
 
 
